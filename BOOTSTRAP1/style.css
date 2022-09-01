@@ -1,0 +1,46 @@
+.navbar-dark .navbar-brand {
+    color: red;
+}
+
+.menu {
+   display: inline-block; 
+}
+
+
+.page-title h1 {
+    color: sandybrown;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+body {
+    background-color:#E9ECEF;
+}
+
+
+.product-item {
+    margin-bottom: 30px;
+}
+.product-description {
+    background-color: white;
+    padding: 10px;
+}
+
+.product-title {
+    color: black;
+    display: block;
+    width: 100%;
+}
+
+.product-price {
+    display: inline-block;
+    background-color: gray;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+
+
